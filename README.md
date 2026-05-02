@@ -69,10 +69,6 @@ A machine learning project that predicts road traffic accident severity using re
 
 ```
 road-traffic-accidents/
-│
-├── RTA_Dataset.csv                  # Original dataset
-├── RTA_Cleaned.csv                  # After preprocessing
-├── RTA_FeatureEngineered.csv        # After feature engineering
 ├── Road_Traffic_Accidents.ipynb     # Main Jupyter Notebook
 └── README.md
 ```
@@ -92,5 +88,3 @@ If you found this project helpful, please give it a **⭐ Star** — it means a 
 ## 👩‍💻 Author
 
 **Hadia Imran**
-- GitHub: [@hadiaimran](https://github.com/hadiaimran)
-- LinkedIn: [linkedin.com/in/hadiaimran](https://linkedin.com/in/hadiaimran)
